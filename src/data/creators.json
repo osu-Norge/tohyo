@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "avatar": "https://a.ppy.sh/8913869?.png",
+      "name": "LBlend",
+      "description": "Main developer",
+      "osu": "https://osu.ppy.sh/users/8913869",
+      "github": "https://github.com/LBlend",
+      "website": "https://lblend.moe"
+    },
+    {
+      "avatar": "https://a.ppy.sh/6951444?.png",
+      "name": "Fjell",
+      "description": "Owner of osu!Norge",
+      "osu": "https://osu.ppy.sh/users/6951444",
+      "github": "https://github.com/preify",
+      "website": "https://regnerdetibergen.no"
+    }
+  ]
+}

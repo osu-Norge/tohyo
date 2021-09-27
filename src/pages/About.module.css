@@ -1,0 +1,7 @@
+.creatorContainer {
+  display: flex;
+  gap: 3rem;
+}
+.creatorContainer:not(:last-child) {
+  background: blue;
+}
